@@ -1,5 +1,4 @@
-earthchild-art
-<!DOCTYPE html>
+  <!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8" />
@@ -101,6 +100,4 @@ earthchild-art
 
 </body>
 </html>
-Transcend.jpg
-Elevate.jpg
-Ascend.jpg
+      
