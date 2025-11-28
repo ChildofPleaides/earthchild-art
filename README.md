@@ -1,4 +1,4 @@
-OK# earthchild-art
+earthchild-art
 <!DOCTYPE html>
 <html lang="en">
 <head>
